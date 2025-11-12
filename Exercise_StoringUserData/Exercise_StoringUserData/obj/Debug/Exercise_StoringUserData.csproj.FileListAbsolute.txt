@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\bin\Debug\Exercise_StoringUserData.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\bin\Debug\Exercise_StoringUserData.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\bin\Debug\Exercise_StoringUserData.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\obj\Debug\Exercise_StoringUserData.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\obj\Debug\Exercise_StoringUserData.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\obj\Debug\Exercise_StoringUserData.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\obj\Debug\Exercise_StoringUserData.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_StoringUserData\Exercise_StoringUserData\obj\Debug\Exercise_StoringUserData.exe.config

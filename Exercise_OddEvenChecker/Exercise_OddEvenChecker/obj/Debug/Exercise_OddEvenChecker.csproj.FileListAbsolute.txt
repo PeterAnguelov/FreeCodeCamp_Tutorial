@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\bin\Debug\Exercise_OddEvenChecker.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\bin\Debug\Exercise_OddEvenChecker.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\bin\Debug\Exercise_OddEvenChecker.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\obj\Debug\Exercise_OddEvenChecker.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\obj\Debug\Exercise_OddEvenChecker.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\obj\Debug\Exercise_OddEvenChecker.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\obj\Debug\Exercise_OddEvenChecker.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenChecker\Exercise_OddEvenChecker\obj\Debug\Exercise_OddEvenChecker.exe.config

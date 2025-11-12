@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\bin\Debug\Forloop.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\bin\Debug\Forloop.exe
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\bin\Debug\Forloop.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\obj\Debug\Forloop.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\obj\Debug\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\obj\Debug\Forloop.exe
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\obj\Debug\Forloop.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Forloop\Forloop\obj\Debug\Forloop.exe.config

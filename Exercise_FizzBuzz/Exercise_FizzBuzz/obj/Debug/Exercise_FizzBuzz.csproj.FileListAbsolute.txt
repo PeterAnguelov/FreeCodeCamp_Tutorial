@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\bin\Debug\Exercise_FizzBuzz.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\bin\Debug\Exercise_FizzBuzz.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\bin\Debug\Exercise_FizzBuzz.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\obj\Debug\Exercise_FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\obj\Debug\Exercise_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\obj\Debug\Exercise_FizzBuzz.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\obj\Debug\Exercise_FizzBuzz.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_FizzBuzz\Exercise_FizzBuzz\obj\Debug\Exercise_FizzBuzz.exe.config

@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\bin\Debug\Exercise_TimesTable.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\bin\Debug\Exercise_TimesTable.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\bin\Debug\Exercise_TimesTable.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\obj\Debug\Exercise_TimesTable.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\obj\Debug\Exercise_TimesTable.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\obj\Debug\Exercise_TimesTable.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\obj\Debug\Exercise_TimesTable.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_TimesTable\Exercise_TimesTable\obj\Debug\Exercise_TimesTable.exe.config
