@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\bin\Debug\Constants.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\bin\Debug\Constants.exe
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\bin\Debug\Constants.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\obj\Debug\Constants.exe
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\obj\Debug\Constants.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Constants\Constants\obj\Debug\Constants.exe.config

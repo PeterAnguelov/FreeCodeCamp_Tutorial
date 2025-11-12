@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\bin\Debug\ConvertingStringToNumbers.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\bin\Debug\ConvertingStringToNumbers.exe
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\bin\Debug\ConvertingStringToNumbers.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\obj\Debug\ConvertingStringToNumbers.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\obj\Debug\ConvertingStringToNumbers.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\obj\Debug\ConvertingStringToNumbers.exe
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\obj\Debug\ConvertingStringToNumbers.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ConvertingStringToNumbers\ConvertingStringToNumbers\obj\Debug\ConvertingStringToNumbers.exe.config

@@ -1,0 +1,7 @@
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\obj\Debug\Bool.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\petan\FreeCodeCamp C# Course\Bool\Bool\obj\Debug\Bool.pdb
