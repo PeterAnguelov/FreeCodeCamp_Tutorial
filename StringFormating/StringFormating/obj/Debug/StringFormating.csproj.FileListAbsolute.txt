@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\bin\Debug\StringFormating.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\bin\Debug\StringFormating.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\bin\Debug\StringFormating.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\obj\Debug\StringFormating.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\obj\Debug\StringFormating.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\obj\Debug\StringFormating.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\obj\Debug\StringFormating.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringFormating\StringFormating\obj\Debug\StringFormating.exe.config

@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb
+C:\Users\petan\FreeCodeCamp C# Course\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe.config

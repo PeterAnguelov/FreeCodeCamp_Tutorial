@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
+C:\Users\petan\FreeCodeCamp C# Course\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe.config

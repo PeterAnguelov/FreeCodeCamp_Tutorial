@@ -1,0 +1,8 @@
+C:\Users\petan\Personal Projects\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\petan\Personal Projects\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\petan\Personal Projects\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\petan\Personal Projects\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\petan\Personal Projects\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\petan\Personal Projects\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\petan\Personal Projects\TryParse\TryParse\obj\Debug\TryParse.pdb
+C:\Users\petan\Personal Projects\TryParse\TryParse\obj\Debug\TryParse.exe.config
