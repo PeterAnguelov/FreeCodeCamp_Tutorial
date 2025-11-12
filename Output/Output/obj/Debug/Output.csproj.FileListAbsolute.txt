@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\bin\Debug\Output.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\bin\Debug\Output.exe
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\bin\Debug\Output.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\obj\Debug\Output.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\obj\Debug\Output.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\obj\Debug\Output.exe
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\obj\Debug\Output.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Output\Output\obj\Debug\Output.exe.config

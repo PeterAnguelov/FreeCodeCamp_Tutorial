@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\bin\Debug\Modulus.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\bin\Debug\Modulus.exe
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\bin\Debug\Modulus.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\obj\Debug\Modulus.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\obj\Debug\Modulus.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\obj\Debug\Modulus.exe
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\obj\Debug\Modulus.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Modulus\Modulus\obj\Debug\Modulus.exe.config

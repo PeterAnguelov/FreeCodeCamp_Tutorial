@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\bin\Debug\String_Chars.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\bin\Debug\String_Chars.exe
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\bin\Debug\String_Chars.pdb
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\obj\Debug\String_Chars.exe
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\obj\Debug\String_Chars.pdb
+C:\Users\petan\FreeCodeCamp C# Course\String_Chars\String_Chars\obj\Debug\String_Chars.exe.config

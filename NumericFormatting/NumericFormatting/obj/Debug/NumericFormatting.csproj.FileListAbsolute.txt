@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\bin\Debug\NumericFormatting.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\bin\Debug\NumericFormatting.exe
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\bin\Debug\NumericFormatting.pdb
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\obj\Debug\NumericFormatting.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\obj\Debug\NumericFormatting.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\obj\Debug\NumericFormatting.exe
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\obj\Debug\NumericFormatting.pdb
+C:\Users\petan\FreeCodeCamp C# Course\NumericFormatting\NumericFormatting\obj\Debug\NumericFormatting.exe.config
