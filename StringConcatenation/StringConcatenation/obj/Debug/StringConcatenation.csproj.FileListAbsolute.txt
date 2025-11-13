@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.exe.config
