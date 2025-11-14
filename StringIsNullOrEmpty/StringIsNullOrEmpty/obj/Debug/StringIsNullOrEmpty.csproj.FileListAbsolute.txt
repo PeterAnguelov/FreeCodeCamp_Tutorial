@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\bin\Debug\StringIsNullOrEmpty.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\bin\Debug\StringIsNullOrEmpty.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\bin\Debug\StringIsNullOrEmpty.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\obj\Debug\StringIsNullOrEmpty.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\obj\Debug\StringIsNullOrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\obj\Debug\StringIsNullOrEmpty.exe
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\obj\Debug\StringIsNullOrEmpty.pdb
+C:\Users\petan\FreeCodeCamp C# Course\StringIsNullOrEmpty\StringIsNullOrEmpty\obj\Debug\StringIsNullOrEmpty.exe.config

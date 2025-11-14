@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\bin\Debug\Exercise_PrintStringInReverse.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\bin\Debug\Exercise_PrintStringInReverse.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\bin\Debug\Exercise_PrintStringInReverse.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\obj\Debug\Exercise_PrintStringInReverse.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\obj\Debug\Exercise_PrintStringInReverse.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\obj\Debug\Exercise_PrintStringInReverse.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\obj\Debug\Exercise_PrintStringInReverse.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_PrintStringInReverse\Exercise_PrintStringInReverse\obj\Debug\Exercise_PrintStringInReverse.exe.config
