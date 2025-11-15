@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\bin\Debug\Exercise_Triangle.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\bin\Debug\Exercise_Triangle.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\bin\Debug\Exercise_Triangle.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\obj\Debug\Exercise_Triangle.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\obj\Debug\Exercise_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\obj\Debug\Exercise_Triangle.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\obj\Debug\Exercise_Triangle.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_Triangle\Exercise_Triangle\obj\Debug\Exercise_Triangle.exe.config

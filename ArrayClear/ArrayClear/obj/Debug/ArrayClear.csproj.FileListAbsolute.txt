@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\bin\Debug\ArrayClear.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\bin\Debug\ArrayClear.exe
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\bin\Debug\ArrayClear.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\obj\Debug\ArrayClear.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\obj\Debug\ArrayClear.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\obj\Debug\ArrayClear.exe
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\obj\Debug\ArrayClear.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ArrayClear\ArrayClear\obj\Debug\ArrayClear.exe.config

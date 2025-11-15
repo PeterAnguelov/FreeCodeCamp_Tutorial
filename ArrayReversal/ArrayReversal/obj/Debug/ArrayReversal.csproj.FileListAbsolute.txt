@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.exe
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.exe.config
