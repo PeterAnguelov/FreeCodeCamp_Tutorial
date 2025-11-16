@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Functions\Functions\obj\Debug\Functions.exe.config
