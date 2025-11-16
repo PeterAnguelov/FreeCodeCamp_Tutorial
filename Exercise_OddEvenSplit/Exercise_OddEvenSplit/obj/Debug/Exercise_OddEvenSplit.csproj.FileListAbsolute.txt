@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\bin\Debug\Exercise_OddEvenSplit.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\bin\Debug\Exercise_OddEvenSplit.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\bin\Debug\Exercise_OddEvenSplit.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\obj\Debug\Exercise_OddEvenSplit.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\obj\Debug\Exercise_OddEvenSplit.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\obj\Debug\Exercise_OddEvenSplit.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\obj\Debug\Exercise_OddEvenSplit.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_OddEvenSplit\Exercise_OddEvenSplit\obj\Debug\Exercise_OddEvenSplit.exe.config

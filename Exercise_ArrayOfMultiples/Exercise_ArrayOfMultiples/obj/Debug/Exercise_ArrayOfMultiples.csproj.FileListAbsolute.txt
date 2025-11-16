@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\bin\Debug\Exercise_ArrayOfMultiples.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\bin\Debug\Exercise_ArrayOfMultiples.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\bin\Debug\Exercise_ArrayOfMultiples.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\obj\Debug\Exercise_ArrayOfMultiples.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\obj\Debug\Exercise_ArrayOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\obj\Debug\Exercise_ArrayOfMultiples.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\obj\Debug\Exercise_ArrayOfMultiples.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_ArrayOfMultiples\Exercise_ArrayOfMultiples\obj\Debug\Exercise_ArrayOfMultiples.exe.config
