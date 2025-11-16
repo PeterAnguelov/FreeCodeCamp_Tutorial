@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\obj\Debug\Lists.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Lists\Lists\obj\Debug\Lists.exe.config
