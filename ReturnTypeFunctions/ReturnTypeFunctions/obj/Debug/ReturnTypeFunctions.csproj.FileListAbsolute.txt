@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.exe
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\bin\Debug\ReturnTypeFunctions.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.exe
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ReturnTypeFunctions\ReturnTypeFunctions\obj\Debug\ReturnTypeFunctions.exe.config

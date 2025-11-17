@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\bin\Debug\VoidFunction.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\bin\Debug\VoidFunction.exe
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\bin\Debug\VoidFunction.pdb
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\obj\Debug\VoidFunction.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\obj\Debug\VoidFunction.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\obj\Debug\VoidFunction.exe
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\obj\Debug\VoidFunction.pdb
+C:\Users\petan\FreeCodeCamp C# Course\VoidFunction\VoidFunction\obj\Debug\VoidFunction.exe.config
