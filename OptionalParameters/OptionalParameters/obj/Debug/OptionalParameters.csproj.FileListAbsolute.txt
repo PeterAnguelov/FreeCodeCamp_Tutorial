@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe.config
