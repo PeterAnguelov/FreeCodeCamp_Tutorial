@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\bin\Debug\OutParameters.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\bin\Debug\OutParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\bin\Debug\OutParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\obj\Debug\OutParameters.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\obj\Debug\OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\obj\Debug\OutParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\obj\Debug\OutParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\OutParameters\OutParameters\obj\Debug\OutParameters.exe.config
