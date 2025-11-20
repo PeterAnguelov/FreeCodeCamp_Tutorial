@@ -1,0 +1,7 @@
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.exe
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\bin\Debug\PrintingErrorMessages.pdb
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.exe
+C:\Users\petan\FreeCodeCamp C# Course\PrintingErrorMessages\PrintingErrorMessages\obj\Debug\PrintingErrorMessages.pdb
