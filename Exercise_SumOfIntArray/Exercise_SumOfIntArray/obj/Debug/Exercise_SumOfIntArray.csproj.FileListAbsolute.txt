@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\bin\Debug\Exercise_SumOfIntArray.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\bin\Debug\Exercise_SumOfIntArray.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\bin\Debug\Exercise_SumOfIntArray.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\obj\Debug\Exercise_SumOfIntArray.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\obj\Debug\Exercise_SumOfIntArray.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\obj\Debug\Exercise_SumOfIntArray.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\obj\Debug\Exercise_SumOfIntArray.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_SumOfIntArray\Exercise_SumOfIntArray\obj\Debug\Exercise_SumOfIntArray.exe.config

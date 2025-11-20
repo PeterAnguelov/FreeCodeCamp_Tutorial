@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.exe
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.exe.config

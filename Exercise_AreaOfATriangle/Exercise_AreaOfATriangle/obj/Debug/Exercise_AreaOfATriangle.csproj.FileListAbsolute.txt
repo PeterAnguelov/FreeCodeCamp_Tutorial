@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\bin\Debug\Exercise_AreaOfATriangle.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\bin\Debug\Exercise_AreaOfATriangle.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\bin\Debug\Exercise_AreaOfATriangle.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\obj\Debug\Exercise_AreaOfATriangle.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\obj\Debug\Exercise_AreaOfATriangle.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\obj\Debug\Exercise_AreaOfATriangle.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\obj\Debug\Exercise_AreaOfATriangle.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_AreaOfATriangle\Exercise_AreaOfATriangle\obj\Debug\Exercise_AreaOfATriangle.exe.config
