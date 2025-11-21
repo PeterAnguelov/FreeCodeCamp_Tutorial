@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\bin\Debug\WatchWindows.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\bin\Debug\WatchWindows.exe
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\bin\Debug\WatchWindows.pdb
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\obj\Debug\WatchWindows.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\obj\Debug\WatchWindows.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\obj\Debug\WatchWindows.exe
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\obj\Debug\WatchWindows.pdb
+C:\Users\petan\FreeCodeCamp C# Course\WatchWindows\WatchWindows\obj\Debug\WatchWindows.exe.config

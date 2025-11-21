@@ -1,0 +1,7 @@
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\bin\Debug\LocalAutoWindow.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\bin\Debug\LocalAutoWindow.exe
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\bin\Debug\LocalAutoWindow.pdb
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\obj\Debug\LocalAutoWindow.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\obj\Debug\LocalAutoWindow.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\obj\Debug\LocalAutoWindow.exe
+C:\Users\petan\FreeCodeCamp C# Course\LocalAutoWindow\LocalAutoWindow\obj\Debug\LocalAutoWindow.pdb

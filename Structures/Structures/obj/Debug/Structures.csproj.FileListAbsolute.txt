@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\bin\Debug\Structures.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\bin\Debug\Structures.exe
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\bin\Debug\Structures.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\obj\Debug\Structures.exe
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\obj\Debug\Structures.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Structures\Structures\obj\Debug\Structures.exe.config
