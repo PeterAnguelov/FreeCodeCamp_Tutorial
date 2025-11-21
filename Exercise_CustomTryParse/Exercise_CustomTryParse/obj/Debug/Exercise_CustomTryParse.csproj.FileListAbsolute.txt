@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\bin\Debug\Exercise_CustomTryParse.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\bin\Debug\Exercise_CustomTryParse.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\bin\Debug\Exercise_CustomTryParse.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\obj\Debug\Exercise_CustomTryParse.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\obj\Debug\Exercise_CustomTryParse.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\obj\Debug\Exercise_CustomTryParse.exe
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\obj\Debug\Exercise_CustomTryParse.pdb
+C:\Users\petan\FreeCodeCamp C# Course\Exercise_CustomTryParse\Exercise_CustomTryParse\obj\Debug\Exercise_CustomTryParse.exe.config
