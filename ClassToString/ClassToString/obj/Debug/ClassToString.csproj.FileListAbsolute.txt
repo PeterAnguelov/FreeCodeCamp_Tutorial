@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\bin\Debug\ClassToString.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\bin\Debug\ClassToString.exe
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\bin\Debug\ClassToString.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\obj\Debug\ClassToString.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\obj\Debug\ClassToString.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\obj\Debug\ClassToString.exe
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\obj\Debug\ClassToString.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ClassToString\ClassToString\obj\Debug\ClassToString.exe.config

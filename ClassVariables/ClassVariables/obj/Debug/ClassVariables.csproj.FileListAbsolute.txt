@@ -1,0 +1,8 @@
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\bin\Debug\ClassVariables.exe.config
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\bin\Debug\ClassVariables.exe
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\bin\Debug\ClassVariables.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\obj\Debug\ClassVariables.csproj.AssemblyReference.cache
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\obj\Debug\ClassVariables.csproj.CoreCompileInputs.cache
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\obj\Debug\ClassVariables.exe
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\obj\Debug\ClassVariables.pdb
+C:\Users\petan\FreeCodeCamp C# Course\ClassVariables\ClassVariables\obj\Debug\ClassVariables.exe.config
